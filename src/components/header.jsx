@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export class Header extends Component {
   render() {
     return (
-      <header id="header">
+      <header id="home">
         <div className="intro">
           <div className="overlay">
             <div className="container">
@@ -20,8 +20,8 @@ export class Header extends Component {
                     href="#features"
                     className="btn btn-custom btn-lg page-scroll"
                   >
-                    Learn More
-                  </a>{" "}
+                    Take The Test
+                  </a>{""}
                 </div>
               </div>
             </div>

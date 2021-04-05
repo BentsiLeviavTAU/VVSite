@@ -29,30 +29,30 @@ export class Navigation extends Component {
           >
             <ul className="nav navbar-nav navbar-right">
               <li>
-                <a href="#services" className="page-scroll">
-                  Services
+                <a href="#home" className="page-scroll">
+                  Home
                 </a>
               </li>
               <li>
-                <a href="#about" className="page-scroll">
-                  About
+                <a href="#about-the-test" className="page-scroll">
+                  About The Test
                 </a>
               </li>
-              <li>
-                <a href="#test" className="page-scroll">
-                  Test
-                </a>
-              </li>
+              {/*<li>*/}
+              {/*  <a href="#test" className="page-scroll">*/}
+              {/*    Test*/}
+              {/*  </a>*/}
+              {/*</li>*/}
               {/*<li>*/}
               {/*  <a href="#portfolio" className="page-scroll">*/}
               {/*    Gallery*/}
               {/*  </a>*/}
               {/*</li>*/}
-              <li>
-                <a href="#testimonials" className="page-scroll">
-                  Testimonials
-                </a>
-              </li>
+              {/*<li>*/}
+              {/*  <a href="#testimonials" className="page-scroll">*/}
+              {/*    Testimonials*/}
+              {/*  </a>*/}
+              {/*</li>*/}
               <li>
                 <a href="#team" className="page-scroll">
                   Team

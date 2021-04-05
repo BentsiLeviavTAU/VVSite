@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Navigation from './navigation';
 import Header from './header';
-import Features from './features';
+import Features from './aboutTheTest';
 import About from './about';
 import Services from './services';
 import Gallery from './gallery';

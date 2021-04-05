@@ -132,5 +132,10 @@
             "title": "Lorem ipsum",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         }
-    ]
+    ],
+    "AboutTheTest" : {
+            "title": "ABOUT THE TEST",
+        "paragraph": "How do people think? Research has shown that people can broadly be categorized as visualizers and verbalizers: people who process images better and people who process words better. Visualizers are individuals who rely primarily on visual imagery to think and process information while verbalizers prefer to process information by verbal means.\n\nOur thinking styles can reveal much about ourselves, from our learning preferences to tasks at which we can excel. Riding and Watts (1997) found that visualizers tend to prefer pictorial methods of instruction while verbalizers preferred verbal methods of instruction, which could have significant implications for education and teaching practices. Research also suggests that the visualizer-verbalizer distinction could be responsible for different aptitudes for creative work in different fields (Mednick 1962). For example, scientists such as Albert Einstein as well as Watson and Crick have claimed that their ability to think in spatial, visual terms rather than verbal terms aided their scientific findings (Newcombe 2010). Check out our Education Overview to learn more about the different styles of thought.\n\nTake our test to learn more about your personal style of thought. What kind of thinker are you?\n\nNote: This test contains several questions about your attitudes and beliefs, which are optional. No personally identifying information is collected, and all of the data collected on this site is completely confidential."
+
+    }
 }
